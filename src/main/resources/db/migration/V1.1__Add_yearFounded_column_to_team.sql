@@ -1,0 +1,2 @@
+ALTER TABLE TEAM
+ADD year_founded BIGINT NOT NULL;
